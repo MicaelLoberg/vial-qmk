@@ -8,8 +8,8 @@ RGB_MATRIX_CUSTOM_USER = yes
 VIALRGB_ENABLE      = yes
 MOUSEKEY_ENABLE     = yes
 OLED_ENABLE         = yes
+WPM_ENABLE = yes
 #OLED_DRIVER         = SSD1306
 EXTRAKEY_ENABLE     = yes
 COMBO_ENABLE        = yes
-
 QMK_SETTINGS        = yes
