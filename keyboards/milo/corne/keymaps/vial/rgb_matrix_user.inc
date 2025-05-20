@@ -58,6 +58,9 @@ layer_state_t layer_state_set_user(layer_state_t state) {
             break;
         case 3:
             break;
+        case 5:
+            rgb_matrix_mode(RGB_MATRIX_TYPING_HEATMAP);
+            break;
         default:
             break;
     }
